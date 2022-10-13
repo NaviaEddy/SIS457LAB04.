@@ -5,6 +5,7 @@
 #include "CoreMinimal.h"
 #include "GameFramework/Actor.h"
 #include "Ball.generated.h"
+
 class UProjectileMovementComponent;
 UCLASS()
 class ARKANOID_API ABall : public AActor

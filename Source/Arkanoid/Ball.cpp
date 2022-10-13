@@ -24,7 +24,7 @@ ABall::ABall()
 	ProjectileMovement->bShouldBounce = true; //Debe rebotar
 	ProjectileMovement->Bounciness = 1.1f; //Rebote
 	ProjectileMovement->Friction = 0.0f; //Friccion
-	ProjectileMovement->Velocity.X = 0.0f; //Velocidad
+	ProjectileMovement->Velocity.X = 5.0f; //Velocidad
 
 }
 
